@@ -19,6 +19,7 @@ People who know me call me yugo. I made some things just for fun. Usually I can'
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MongoDb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 
 
 ## GitHub Stats
