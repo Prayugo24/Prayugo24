@@ -1,10 +1,9 @@
 # Hi there, I'm Prayugo 🔥
 
-People who know me call me yugo. I made some things just for fun. Usually I can't live without Gudang Garam and Coffee. Often turning interesting ideas into beautiful things but sometimes also become horrible things.
+People who know me call me yugo. I made some things just for fun. Usually I can't live without snack and Coffee. Often turning interesting ideas into beautiful things but sometimes also become horrible things.
 
-- 🔭 I’m currently working on Mobile and Web Application Vendor
-- 🌱 I’m currently learning Flutter and also everything about Web Application Security
-- 📫 You can reach me via abay@codelatte.org
+- 🔭 I’m currently working on Mobile and Web Application Corporate
+- 🌱 I’m currently learning devOps and also everything about Web Application Security
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -17,6 +16,6 @@ People who know me call me yugo. I made some things just for fun. Usually I can'
 
 ## GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayugo24&hide_border=true&hide=html,css&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=prayugo24&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayugo24&hide_border=true&hide=html,css&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prayugo24&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=dark">
 </p>
