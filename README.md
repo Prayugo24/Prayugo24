@@ -6,13 +6,6 @@ People who know me call me yugo. I made some things just for fun. Usually I can'
 - 🌱 I’m currently learning Flutter and also everything about Web Application Security
 - 📫 You can reach me via abay@codelatte.org
 
-<p>
-  <strong><a href="https://abaykan.com">Official Website</a></strong> |
-  <strong><a href="https://twitter.com/abaykandotcom">Twitter</a></strong> |
-  <strong><a href="https://www.instagram.com/abaykandotcom">Instagram</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/mukhammad-akbar/">LinkedIn</a></strong>
-</p>
-
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Apache-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
@@ -24,6 +17,6 @@ People who know me call me yugo. I made some things just for fun. Usually I can'
 
 ## GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaykan&hide_border=true&hide=html,css&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=abaykan&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayugo24&hide_border=true&hide=html,css&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prayugo24&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=dark">
 </p>
