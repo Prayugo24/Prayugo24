@@ -12,6 +12,7 @@ People who know me call me yugo. I made some things just for fun. Usually I can'
 ![](https://img.shields.io/badge/Tools-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=golang&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
@@ -21,6 +22,7 @@ People who know me call me yugo. I made some things just for fun. Usually I can'
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+
 
 
 ## GitHub Stats
