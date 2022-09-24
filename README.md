@@ -2,7 +2,7 @@
 
 People who know me call me yugo. I made some things just for fun. Usually I can't live without snack and Coffee. Often turning interesting ideas into beautiful things but sometimes also become horrible things.
 
-- 🔭 I’m currently working on Web Application Corporate
+- 🔭 I’m currently working on Web Application Startup
 - 🌱 I’m currently learning devOps and also everything about Web Application Security
 
 ## Technologies & Tools
