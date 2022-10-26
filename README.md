@@ -28,7 +28,7 @@ People who know me call me yugo. I made some things just for fun. Usually I can'
 
 ## GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayugo24&theme=dark&layout=compact&langs_count=10&hide=html,cs,asp,blade,hack,roff,perl,shell,makefile,c,ShaderLab,Objective-C" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayugo24&theme=dark&layout=compact&langs_count=7&hide=html,cs,asp,blade,hack,roff,perl,shell,makefile,c,ShaderLab,Objective-C" />
 
   
   <img src="https://github-readme-stats.vercel.app/api?username=Prayugo24&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=dark">
