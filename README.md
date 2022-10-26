@@ -28,8 +28,8 @@ People who know me call me yugo. I made some things just for fun. Usually I can'
 
 ## GitHub Stats
 <p>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayugo24&hide_border=true&hide=html,css&theme=dark" /> -->
-    <img src="https://ionicabizau.github.io/github-profile-languages/api.html?prayugo24" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayugo24&hide_border=true&hide=html,css&theme=dark" />
+
   
   <img src="https://github-readme-stats.vercel.app/api?username=Prayugo24&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=dark">
 </p>
