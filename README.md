@@ -1,9 +1,8 @@
-# Hi there, I'm Prayugo 🔥
+# Hi there, I'm Prayugo Dwi Setiyoko 🔥
 
-People who know me call me yugo. I made some things just for fun. Usually I can't live without snack and Coffee. Often turning interesting ideas into beautiful things but sometimes also become horrible things.
+you can call me Yugo, I am a passionate Web developer focusing on cutting edge. I'm passionate learner, love to achieving goal. I'm also like to programming not just to earn money but to gain more knowledge and meet new people. 
 
-- 🔭 I’m currently working on Web Application Startup
-- 🌱 I’m currently learning devOps and also everything about Web Application Security
+I have a some of experience in Web development. I like to write clean and testable code. I strongly believe that continuous learning is almost the only way to successfully evolve and grow
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
